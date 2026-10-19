@@ -11,7 +11,7 @@ mechanistic tumour growth models, and data-driven discovery of cancer dependenci
 ## How to run (no setup)
 1. Open [Google Colab](https://colab.research.google.com), choose **File > Open notebook > GitHub**, and paste this repository's URL.
 2. Pick a notebook and run cells one by one with Shift+Enter.
-3. For notebook 02 with real data, upload `CRISPRGeneEffect.csv` and `Model.csv` (see `data/README.md`) into a `data` folder next to the lesson folder. Without them, the notebook uses a clearly labelled simulated dataset.
+3. For notebook 02 with real data, upload `CRISPRGeneEffect.csv` and `Model.csv` (see `data/README.md`) with the folder icon in Colab's left sidebar (or into `data/` locally). Without them, the notebook uses a clearly labelled simulated dataset.
 
 ## How to run locally
 ```bash
